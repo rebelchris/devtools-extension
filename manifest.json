@@ -1,0 +1,6 @@
+{
+  "name": "DevTools extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "devtools_page": "devtools.html"
+}
